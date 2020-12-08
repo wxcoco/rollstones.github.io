@@ -1,0 +1,22 @@
+{
+  "name": "rollstones.github.io",
+  "version": "1.0.0",
+  "description": "笔记",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs --silent"
+  },
+  "author": "qixiaodong",
+  "repository": "github:rollstones/rollstones.github.io",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.7.1",
+    "vuepress-plugin-autobar": "github:boboidream/vuepress-bar",
+    "vuepress-plugin-permalink-pinyin": "^1.0.0",
+    "vuepress-plugin-rpurl": "github:boboidream/vuepress-plugin-rpurl"
+  }
+}
