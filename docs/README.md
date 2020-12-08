@@ -8,12 +8,12 @@ describe: 一点一滴记录，持之以恒学习。
 books: [
 {
   name: 'Java',
-  href: '/java/ji-chu/shu-ju-lei-xing',
+  href: '/java/',
   logo: 'assets/img/java.svg'
 },
 {
   name: 'Idea',
-  href: '/idea/idea-pei-zhi',
+  href: '/idea/',
   logo: 'assets/img/idea.ico'
 }
 ]
