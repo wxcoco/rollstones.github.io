@@ -7,7 +7,7 @@ module.exports = {
   base: '/',
   themeConfig: {
     nav: [
-      { text: 'Blog', link: 'https://wwww.rollstone.cn' },
+      { text: 'Blog', link: 'https://wwww.rollstones.cn' },
       { text: 'Github', link: 'https://github.com/rollstones/rollstones.github.io' },
     ],
     docsRepo: 'rollstones/rollstones.github.io',

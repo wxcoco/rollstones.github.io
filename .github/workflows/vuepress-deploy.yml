@@ -1,4 +1,4 @@
-name: A TO A:GH_PAGES
+name: rollstones.github.io TO rollstones.github.io:GH_PAGES
 #指定推送master分支时执行
 on:
   push:
