@@ -24,6 +24,8 @@ jobs:
         run: |
           yarn install
           yarn run build
+      - name: CNAME
+        run: echo 'www.rollstones.cn' > docs/.vuepress/dist/CNAME
       - name: Deploy
         uses: jenkey2011/vuepress-deploy@master
         env:
