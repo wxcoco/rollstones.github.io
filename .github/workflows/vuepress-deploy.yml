@@ -18,8 +18,9 @@ jobs:
         uses: actions/setup-node@v2-beta
         with:
           node-version: ${{ env.NODE_VERSION }}
-      - name: install and Build
+      - name: use action-npm-install
         uses: Jaid/action-npm-install@v1.2.4
+      - name: install and Build
         run: |
           yarn install
           yarn run build
