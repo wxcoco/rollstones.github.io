@@ -20,7 +20,7 @@ https://github.com/google/guava/wiki
 
  - 节约时间，资源，提高生产力
 
-  ## Guava工具集：
+## Guava工具集：
 
  - 集合 [collections]
 
@@ -36,7 +36,7 @@ https://github.com/google/guava/wiki
 
  - I/O 等等。
 
-# 1.集合的创建
+## 1.集合的创建
 
 ### 普通Collection的创建
 
