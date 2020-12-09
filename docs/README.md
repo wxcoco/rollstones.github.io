@@ -12,8 +12,8 @@ books: [
   logo: 'assets/img/java.svg'
 },
 {
-  name: 'Idea',
-  href: '/idea/',
+  name: '开发工具',
+  href: '/kai-fa-gong-ju/',
   logo: 'assets/img/idea.ico'
 }
 ]
